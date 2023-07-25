@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pandiaraj-22
+- 👋 Hi, I’m @Pandiaraj M
 - 👀 I’m interested in MERN STACK
 - 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me itspandiaraj22@gmail.com
