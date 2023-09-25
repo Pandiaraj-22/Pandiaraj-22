@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandiaraj-22" alt="pandiaraj-22" /></a> </p>
 
-- 🌱 I’m currently learning **full stack developer**
+- 🌱 I’m currently learning **Full stack developer**
 
 - 💬 Ask me about **Js, Html,Css, React Js, Node Js, Mango DB**
 
