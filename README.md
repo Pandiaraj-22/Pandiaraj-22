@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PANDIARAJ M</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandiaraj-22" alt="pandiaraj-22" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandiaraj-22&label=Profile%20views&color=0e75b6&style=flat" alt="pandiaraj-22" /> </p>
 
