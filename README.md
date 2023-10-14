@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/Pandiaraj-22?tab=repositories)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **The first computer bug was actually a real bug🐞**
  
  </div>
 
