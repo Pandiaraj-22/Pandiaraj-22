@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Full Stack Developer**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/pandiaraj-22)**
+ 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/pandiaraj-22)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,PostgreSQL,AWS,typescript,express,mongodb,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql" /><br>
 </div>
 
 <br/>
