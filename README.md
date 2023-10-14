@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Full Stack Developer**
 
- 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/pandiaraj-22)**
+ 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/Pandiaraj-22?tab=repositories)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
