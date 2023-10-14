@@ -1,4 +1,4 @@
-![linkedin](https://user-images.githubusercontent.com/97544831/233790849-26cd0d8f-8e1e-4550-bbb4-355bfa09a6db.jpeg)
+![linkedin](file:///C:/Users/itspa/Downloads/Wishing%20you%20a.pdf)
 <h1 align="center">Hi 👋, I'm PANDIARAJ M</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
