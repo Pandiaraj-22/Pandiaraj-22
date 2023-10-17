@@ -4,8 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pandiaraj+M!;" />
 </h1>
 
+![github-header-image](https://github.com/Pandiaraj-22/Pandiaraj-22/assets/140479425/56c005d1-8c16-49d0-ae35-b10ce05f98d4)
 
-![github-header-image](https://github.com/Pandiaraj-22/Pandiaraj-22/assets/140479425/27d7a6a6-6924-4839-829e-596732815c75)
+
 
 
 
