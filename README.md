@@ -1,8 +1,5 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=pandiaraj-22&label=Profile%20views&color=0e75b6&style=flat" alt="pandiaraj-22" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pandiaraj+M!;" />
-</h1>
 
 ![github-header-image](https://github.com/Pandiaraj-22/Pandiaraj-22/assets/140479425/56c005d1-8c16-49d0-ae35-b10ce05f98d4)
 
