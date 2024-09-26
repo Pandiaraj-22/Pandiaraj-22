@@ -15,7 +15,7 @@
  
  
  
- 🌱 I’m currently learning **Full Stack Developer**
+ 🌱 I’m currently Working **Full Stack Developer**
 
  💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/Pandiaraj-22?tab=repositories)**
 
